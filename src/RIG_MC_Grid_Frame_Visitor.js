@@ -1,7 +1,7 @@
 /*	
 	MC Grid Frame Visitor
 	
-	This script is designed to help the creation of 2.5d characters in Harmony.
+	This Toon Boom Harmony shelf script is designed to help the creation of 2.5d characters in Harmony.
 	It allows us to quickly jump to one of the sequential frames that arranged for the biaxial Master Controller Grid.
 	Since Harmony's timeline is uniaxial, it is hard for us to browse or flip through the frames for both x and y axis.
 	MC Grid Frame Visitor will create a x-y controller from a grid preset file.
@@ -23,8 +23,8 @@
 	2) Locate to your user scripts folder (a hidden folder):
 	   https://docs.toonboom.com/help/harmony-17/premium/scripting/import-script.html	
 
-	3) Add all unzipped files (*.js, *.ui (if any) and script-icons folder) directly to the folder above.	
-	4) Add RIG_MC_Grid_Frame_Visitor to any toolbar.
+	3) There is a folder named "src" inside the zip file. Copy all its contents directly to the folder above.	
+	4) In Harmony, add RIG_MC_Grid_Frame_Visitor function to any toolbar.
 
 
 	How to Create a Grid Preset:
